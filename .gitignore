@@ -219,3 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 notebooks/filtros.ipynb
+# Large local datasets (keep out of git / GitHub)
+trabalho_estatistica/CLEAN_House*.csv
+energy_comsuption/dataset/
